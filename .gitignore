@@ -1,0 +1,7 @@
+# Uretilmis / onbellek dosyalari repoya girmez
+__pycache__/
+*.pyc
+*.log
+videos/
+lockbg.png
+.DS_Store

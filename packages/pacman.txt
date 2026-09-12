@@ -1,0 +1,86 @@
+# ─── Pencere yöneticisi + kilit ────────────────────
+hyprland
+hyprlock
+hypridle
+xdg-desktop-portal-hyprland
+
+# ─── Bar ─────────────────────────────────────────
+waybar
+
+# ─── Quickshell bağımlılıkları ──────────────────
+qt5-wayland
+qt6-wayland
+qt6-multimedia-ffmpeg
+gtk4-layer-shell
+
+# ─── Terminal + dosya ──────────────────────────
+figlet
+kitty
+yazi
+
+# ─── Ses ───────────────────────────────────────
+pipewire
+pipewire-alsa
+pipewire-pulse
+wireplumber
+pavucontrol
+playerctl
+
+# ─── Bildirim + polkit + bluetooth paylasim ────
+polkit-kde-agent
+kdeconnect
+
+# ─── Ekran görüntüsü, parlaklık, pano ──────────
+brightnessctl
+grim
+slurp
+satty
+hyprshot
+wl-clipboard
+
+# ─── Çıkarılabilir medya ───────────────────────
+udiskie
+udisks2
+
+# ─── Ağ ────────────────────────────────────────
+networkmanager
+
+# ─── Fontlar ───────────────────────────────────
+ttf-jetbrains-mono
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+
+# ─── Shell + prompt ────────────────────────────
+fish
+starship
+
+# ─── Python (pixel-wave / lockbg) ──────────────
+python-cairo
+python-numpy
+python-pillow
+python-opencv
+python-qrcode
+
+# ─── Quickshare ────────────────────────────────
+qrencode
+cloudflared
+
+# ─── XDG ───────────────────────────────────────
+xdg-user-dirs
+xdg-utils
+
+# ─── unit-3-modified ekstraları ────────────────
+kate
+telegram-desktop
+okular
+fastfetch
+zenity
+lact
+gamescope
+gamemode
+lib32-gamemode
+mangohud
+lib32-mangohud
+goverlay
+github-cli

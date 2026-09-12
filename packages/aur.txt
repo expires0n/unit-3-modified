@@ -1,0 +1,19 @@
+# Quickshell — git sürümü şart
+quickshell-git
+
+# Duvar kağıdı servisi (awww-daemon)
+awww
+
+# Quickshell lockscreen PAM doğrulaması
+pamtester
+
+# ─── unit-3-modified ekstraları ────────────────
+# Apple SF fontları
+otf-san-francisco
+otf-san-francisco-mono
+
+# macOS imleç teması
+apple_cursor
+
+# Minecraft mod yöneticisi (isteğe bağlı)
+curseforge

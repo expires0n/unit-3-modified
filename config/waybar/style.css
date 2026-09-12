@@ -1,0 +1,97 @@
+
+* {
+  font-family: "SF Pro Text", sans-serif;
+  font-size: 11px;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+}
+
+window#waybar {
+  background: rgba(20, 16, 29, 0.92);
+  border-bottom: 1px solid rgba(216, 205, 245, 0.15);
+  color: #D8CDF5;
+}
+
+/* WORKSPACES */
+#workspaces button {
+  padding: 0 8px;
+  color: rgba(216, 205, 245, 0.3);
+  border-bottom: 2px solid transparent;
+  transition: all 0.15s;
+}
+
+#workspaces button.active {
+  color: #D8CDF5;
+  border-bottom: 2px solid #D8CDF5;
+}
+
+#workspaces button:hover {
+  color: rgba(216, 205, 245, 0.7);
+  background: rgba(216, 205, 245, 0.05);
+}
+
+/* WINDOW TITLE */
+#window {
+  color: rgba(216, 205, 245, 0.4);
+  padding: 0 12px;
+  letter-spacing: 1px;
+}
+
+/* TICKER CENTRE */
+#custom-ticker {
+  color: rgba(216, 205, 245, 0.2);
+  letter-spacing: 2px;
+  font-size: 9px;
+}
+
+/* MODULES DROITE */
+#cpu,
+#memory,
+#network,
+#custom-gpu,
+#clock,
+#custom-timer,
+#custom-power {
+  padding: 0 10px;
+  color: rgba(216, 205, 245, 0.5);
+  border-left: 1px solid rgba(216, 205, 245, 0.08);
+  letter-spacing: 1px;
+}
+
+#clock {
+  color: #D8CDF5;
+  letter-spacing: 2px;
+}
+
+#cpu {
+  color: #A78BFA;
+}
+
+#memory {
+  color: #D8CDF5;
+}
+
+#network {
+  color: #A78BFA;
+}
+
+#custom-gpu {
+  color: #D8CDF5;
+}
+
+#custom-timer {
+  color: rgba(216, 205, 245, 0.6);
+  letter-spacing: 2px;
+}
+
+#custom-power {
+  color: rgba(240, 166, 214, 0.5);
+  padding: 0 14px;
+}
+
+#custom-power:hover {
+  color: #A78BFA;
+  background: rgba(240, 166, 214, 0.08);
+}
