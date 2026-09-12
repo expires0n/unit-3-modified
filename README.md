@@ -1,7 +1,7 @@
 # unit-3-modified
 
 Hyprland + Quickshell rice (mor pastel **Pastel Dusk** temalı).
-Kaynak: [samyns/Unit-3](https://github.com/samyns/Unit-3) — onun üstüne kişisel çatallama.
+Kaynak: [samyns/Unit-3](https://github.com/samyns/Unit-3) — onun üstüne kişisel oynamalar.
 
 ## Tek tık kurulum
 
